@@ -19,7 +19,19 @@ https://github.com/RabiiAlaouiLamharzi/scia-tech-mobile/assets/103124512/2afaa1e
 
 To use the app, follow these steps:
 
-1. Launch the Server: Navigate to the "server" folder in the project directory and run the server using the following command:
+1. Clone the repository:
+2. 
+```
+git clone https://github.com/RabiiAlaouiLamharzi/scia-tech-mobile
+```
+
+2. Install the dependencies:
+
+```
+npm install
+```
+
+3. Launch the Server: Navigate to the "server" folder in the project directory and run the server using the following command:
 
 ```
 cd src
@@ -27,10 +39,10 @@ cd server
 node server.js
 ```
 
-2. Start the App: In your project root directory, start the React Native app with the following command:
+4. Start the App: In your project root directory, start the React Native app with the following command:
 
 ```
 npm start
 ```
 
-3. iOS Simulator: Click 'i' in the terminal to open the app in an iOS simulator.
+5. iOS Simulator: Click 'i' in the terminal to open the app in an iOS simulator.
