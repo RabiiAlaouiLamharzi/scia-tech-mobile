@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to the Scia-Tech mobile app, a companion to the innovative smart shoes designed to enhance your daily life. These smart shoes not only track your physical activities, but also offer a unique solution for individuals suffering from sciatica. By closely monitoring your walking patterns, sitting habits, heavy lifting, intense workouts, and posture, Scia-Tech aims to identify behaviors that may trigger sciatic pain, allowing you to take proactive steps to manage and mitigate discomfort.
+Welcome to the Scia-Tech mobile app, a companion to the innovative Scia-Tech's smart insoles designed to enhance your daily life. These smart insoles not only track your physical activities, but also offer a unique solution for individuals suffering from sciatica. By closely monitoring your walking patterns, sitting habits, heavy lifting, intense workouts, and posture, Scia-Tech aims to identify behaviors that may trigger sciatic pain, allowing you to take proactive steps to manage and mitigate discomfort.
 
 ## Demo
 
