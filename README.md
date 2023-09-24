@@ -20,7 +20,7 @@ https://github.com/RabiiAlaouiLamharzi/scia-tech-mobile/assets/103124512/2afaa1e
 To use the app, follow these steps:
 
 1. Clone the repository:
-2. 
+   
 ```
 git clone https://github.com/RabiiAlaouiLamharzi/scia-tech-mobile
 ```
