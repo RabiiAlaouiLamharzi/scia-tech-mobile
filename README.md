@@ -8,7 +8,7 @@ Welcome to the Scia-Tech mobile app, a companion to the innovative Scia-Tech's s
 
 ## Figma Design
 
-<img width="314" alt="Screenshot 2023-11-11 at 15 12 33" src="https://github.com/RabiiAlaouiLamharzi/scia-tech-mobile/assets/103124512/fe26ff06-a9ed-41bd-bd51-b4286b1ed19f">
+<img width="1293" alt="Screenshot 2023-11-11 at 15 19 05" src="https://github.com/RabiiAlaouiLamharzi/scia-tech-mobile/assets/103124512/e8eb61f0-3781-411f-9a08-50c6c6bd0934">
 
 ## User Flow
 
